@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase.mdf
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabase_log.ldf
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe.config
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\bin\Debug\SampleDatabaseWalkthrough.pdb
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Form1.resources
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.Properties.Resources.resources
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.exe
+C:\Users\Admin\source\repos\SampleDatabaseWalkthrough\SampleDatabaseWalkthrough\obj\Debug\SampleDatabaseWalkthrough.pdb
